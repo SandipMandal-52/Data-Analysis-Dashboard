@@ -22,8 +22,26 @@ The final dashboard provides insights into:
 * Revenue by Occasion
 * Monthly, Daily, and Hourly Trends
 * Top Customers
+---
+- <a href="https://github.com/SandipMandal-52/Data-Analysis-Dashboard/blob/main/Dashboard.png">Dashboard</a>
+
+## Business Questions Answered
+
+* How many total orders were placed?
+* What is the total revenue generated?
+* What is the average customer spending?
+* Which products generate the highest revenue?
+* Which categories perform the best?
+* Which cities contribute the most orders?
+* Which occasions drive maximum revenue?
+* How does revenue change month-wise?
+* Which days generate higher revenue?
+* At what hours does revenue peak?
+* Who are the top revenue-generating customers?
 
 ---
+
+
 
 # 🛠 Project Workflow (Step-by-Step Process)
 
@@ -174,8 +192,6 @@ This project demonstrates:
 * DAX measure creation
 * Dashboard Design & Storytelling
 * Business insight generation
-
-It showcases practical Business Intelligence skills using Excel as a BI tool.
 
 ---
 
