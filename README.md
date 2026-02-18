@@ -195,5 +195,3 @@ This project demonstrates:
 
 ---
 
-
-Tell me where you want to use it next 🚀
